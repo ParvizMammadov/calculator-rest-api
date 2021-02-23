@@ -1,0 +1,11 @@
+com/example/demo22/Demo22Application.java
+ com.example.demo22.Demo22Application
+com/example/demo22/UserRepository.java
+ com.example.demo22.UserRepository
+com/example/demo22/User.java
+ com.example.demo22.User
+com/example/demo22/Operations.java
+ com.example.demo22.Operations
+com/example/demo22/HomeController.java
+ com.example.demo22.HomeController
+ com.example.demo22.HomeController$1
